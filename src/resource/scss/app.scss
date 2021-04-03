@@ -1,0 +1,199 @@
+
+.cover {
+  background: #2b2d34 url(https://tinder.com/static/build/m/744fe6d80266616aba687006b7d764ad.webp) center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.cover p.lead {
+  margin: 2rem auto;
+  color: white;
+  font-size: 8vw;
+  font-weight: bold;
+  padding-top: 200px;
+  font-family: ProximaNova, sans-serif;
+  text-shadow: 0 15px 15px black;
+}
+
+.cover .cover-container {
+  display: table;
+  height: 100%;
+  min-height: 44rem;
+  margin: 0 auto;
+}
+
+.bg-dark {
+  background-color: transparent !important;
+
+}
+
+
+.btnCre {
+  width: 260px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: white;
+  position: relative;
+  padding: 15px 55px;
+  background: linear-gradient(262deg, #ff7854, #fd267d);
+  border-radius: 100px;
+  touch-action: manipulation;
+}
+.content {
+  margin-top: 40px;
+  padding: 10px 100px;
+}
+.content .col-sm{
+  padding: 10px 20px;
+  margin: 10px;
+}
+footer{
+  margin-top: 40px;
+  padding: 10px 100px;
+}
+footer .list-group-item, .navbar{
+  border: none !important;
+  margin-left: -13px;
+  background: white;
+}
+footer h2, h3{
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 2rem;
+}
+footer a{
+  font-size: 1.6rem;
+}
+footer .help a{
+  font-size: 14px;
+}
+footer .help .navbar-brand{
+  padding: 0px;
+}
+footer .help{
+  margin-top: 20px;
+}
+.modal-login {
+  color: #636363;
+  width: 350px;
+  margin: 30px auto;
+}
+
+.modal-login .modal-content {
+  padding: 20px;
+  border-radius: 5px;
+  border: none;
+}
+
+.modal-login .modal-header {
+  border-bottom: none;
+  position: relative;
+  justify-content: center;
+}
+
+.modal-login h4 {
+  text-align: center;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+.modal-login .form-group {
+  position: relative;
+}
+
+.modal-login i {
+  position: absolute;
+  left: 13px;
+  top: 11px;
+  font-size: 18px;
+}
+
+.modal-login .form-control {
+  padding-left: 40px;
+}
+
+.modal-login .form-control:focus {
+  border-color: #00ce81;
+}
+
+.modal-login .form-control,
+.modal-login .btn {
+  min-height: 40px;
+  border-radius: 5px;
+}
+
+.modal-login .close {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+}
+
+.modal-login .btn {
+  background: linear-gradient(262deg, #ff7854, #fd267d);
+  border: none;
+  line-height: normal;
+}
+
+.modal-login .btn:hover,
+.modal-login .btn:focus {
+  background: #00bf78;
+}
+
+.modal-login .modal-footer {
+  background: #ecf0f1;
+  border-color: #dee4e7;
+  text-align: center;
+  margin: 0 -20px -20px;
+  border-radius: 5px;
+  font-size: 13px;
+  justify-content: center;
+}
+
+.modal-login .modal-footer a {
+  color: #999;
+}
+
+.trigger-btn {
+  width: 260px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: white;
+  position: relative;
+  padding: 20px 50px;
+  background: linear-gradient(262deg, #ff7854, #fd267d);
+  border-radius: 100px;
+  touch-action: manipulation;
+}
+
+.imgLog {
+  margin-right: 10px;
+  width: 30px;
+  height: 30px;
+}
+
+nav {
+  background: linear-gradient(to bottom, rgba(7, 7, 7, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%);
+}
+
+.btn-language:hover {
+  color: #fd267d;
+}
+
+.btn:hover {
+  background: linear-gradient(262deg, #ff7854, #fd267d);
+  color: white !important;
+}
+
+.fa {
+  color: black;
+}
+
+.form-select {
+  font-size: 16px;
+}
+.gt{
+  margin-left: 25px;
+}
